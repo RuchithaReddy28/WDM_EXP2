@@ -1,7 +1,7 @@
-<img width="272" alt="305595571-e7c05833-7194-4952-bbc1-943642366884" src="https://github.com/RuchithaReddy28/WDM_EXP2/assets/93427261/f5e1495a-c401-4d27-8d67-9a0f1df922ca">
+
 
 ### EX2 Generating Association Rules for Employee dataset using Apriori Algorithm
-### DATE: 
+### DATE: 17.02.2023
 ### AIM: To generate associate rules for the employee dataset using Apriori Algorithm.
 ### Description:
 In data mining, association rule learning is a popular and well researched method for discovering interesting
